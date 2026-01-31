@@ -58,10 +58,11 @@ The following payload was submitted via the `id` parameter:
 
 id=1'
 
-
 **Observed Behavior:**
 
 - The application returned a verbose SQL error message referencing **MariaDB**.
+<img width="1200" height="218" alt="Ohmyfin" src="https://github.com/user-attachments/assets/88fb3e1c-2893-4298-ae9a-cfe232dd0c9a" />
+
 
 **Conclusion:**
 
@@ -83,6 +84,7 @@ To confirm control over the SQL query logic, the following payload was submitted
 **Result:**
 
 - The application returned **all user records** from the database.
+<img width="911" height="509" alt="2" src="https://github.com/user-attachments/assets/f503eb43-ac54-4b65-8abd-41f4f340d87f" />
 
 ### 5.2 Query Logic Reconstruction
 
