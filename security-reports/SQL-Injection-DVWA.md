@@ -50,7 +50,7 @@ Testing phases included:
 
 ---
 
-## 4. Vulnerability Discovery
+## 4. Vulnerability Discovery (Probing the backend SQL to see if it's vulnerable)
 
 ### 4.1 Initial Injection Indicator
 
