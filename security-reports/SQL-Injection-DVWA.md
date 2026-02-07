@@ -92,6 +92,7 @@ id=1'
 ```
 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version...
 ```
+<img width="1544" height="1003" alt="Burpsuits" src="https://github.com/user-attachments/assets/030767cc-2890-45ca-85ab-120230564365" />
 
 #### Analysis
 
