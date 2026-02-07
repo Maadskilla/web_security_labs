@@ -120,6 +120,7 @@ To verify full control over query logic, a boolean‑based payload was used.
 
 * Application returned **all rows** from the `users` table
 <img width="911" height="509" alt="2" src="https://github.com/user-attachments/assets/3dea0d87-6149-4be6-b9d6-0d4b1cc67b1b" />
+
 * Normal query restrictions were bypassed
 <img width="1551" height="1035" alt="Burpsuits2" src="https://github.com/user-attachments/assets/2fb3c49c-65d5-44d9-9f06-2b2d05f724cf" />
 
