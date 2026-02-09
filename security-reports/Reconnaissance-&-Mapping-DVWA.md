@@ -85,5 +85,5 @@ All identified user inputs were documented in a structured **Attack Surface Tabl
 ## 📎 Attack Surface Table
 
 > **External Reference (Google Sheets)**  
-> Replace the placeholder link below:
+> <a href="https://docs.google.com/spreadsheets/d/1NmwNs2hRue8znp7cgOQM6khAKIg7oZ9WcCET4n-HSbM/edit?usp=sharing">Recon Results Table<a/>
 
