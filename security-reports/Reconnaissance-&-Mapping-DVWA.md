@@ -5,7 +5,7 @@
 
 ## 📌 Overview
 
-This report documents **Phase 1 (Reconnaissance & Mapping)** of a controlled security assessment performed against **Damn Vulnerable Web Application (DVWA)** in a local lab environment.
+This report documents the full **Reconnaissance & Mapping** of a controlled security assessment performed against **Damn Vulnerable Web Application (DVWA)** in a local lab environment.
 
 The purpose of this phase is to **identify and enumerate all user-controlled input vectors within DVWA** and understand how data is transmitted from client to server.
 
@@ -17,7 +17,7 @@ This reconnaissance phase establishes the foundation for all subsequent vulnerab
 
 ## 🎯 Objective
 
-Create a complete list of every location where user input enters DVWA and how it is transmitted to the server.
+To Create a complete list of every location where user input enters DVWA and how it is transmitted to the server.
 
 ### Specific Goals
 
